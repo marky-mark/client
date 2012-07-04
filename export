@@ -1,0 +1,13 @@
+
+# MacPorts Installer addition on 2011-08-13_at_11:21:34: adding an appropriate PATH variable for use with MacPorts.
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+# Finished adapting your PATH environment variable for use with MacPorts.
+
+[H[2J[0m[4l[1;51r[H[2J[7m    I A  ~/.profile (sh)                                                                                                                   Row 1    Col 1    5:31  Ctrl-K H for help
+
+[0m[32m# MacPorts Installer addition on 2011-08-13_at_11:21:34: adding an appropriate PATH variable for use with MacPorts.
+[0m[1mexport[0m PATH=/opt/[1mlocal[0m/bin:/opt/[1mlocal[0m/sbin:[35m$PATH
+[32m# Finished adapting your PATH environment variable for use with MacPorts.[21B[0m[7m    IW   M2_HOME=/opt/local/share/java/maven2                                                                                              Row 1    Col 1    5:31  Ctrl-K H for help[25B** Joe's Own Editor v3.7 ** (utf-8) ** Copyright © 2008 **[24A[0mNew File[H
+[49B[25S[H
+[K[24B[K[H
+[49B
